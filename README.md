@@ -38,3 +38,7 @@
 - [prefect-saturn](https://github.com/saturncloud/prefect-saturn) - Python client for using Prefect Cloud with Saturn Cloud.
 - [prefect-stitch](https://github.com/AlessandroLollo/prefect-stitch) - Prefect 2.0 tasks and flows to interact with Stitch.
 - [prefect-vault](https://github.com/pbchekin/prefect-vault) - Prefect blocks for HashiCorp Vault.
+
+## Example projects
+
+- [prefect-webscraper-example](https://github.com/szelenka/prefect-webscraper-example) - Prefectt integration with BeatifulSoup and Selenium.
