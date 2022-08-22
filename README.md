@@ -4,7 +4,7 @@
 - [server](https://github.com/PrefectHQ/server) - The Prefect API and backend.
 - [ui](https://github.com/PrefectHQ/ui) - The home of the Prefect UI.
 
-## Integrations
+## Official integrations
 
 - [prefect-airbyte](https://github.com/PrefectHQ/prefect-airbyte) - Prefect integrations with Airbyte.
 - [prefect-aws](https://github.com/PrefectHQ/prefect-aws) - Prefect integrations with AWS.
@@ -31,3 +31,10 @@
 - [prefect-sqlalchemy](https://github.com/PrefectHQ/prefect-sqlalchemy) - Prefect integrations with SQLAlchemy.
 - [prefect-twilio](https://github.com/PrefectHQ/prefect-twilio) - Prefect tasks and subflows for interacting with Twilio.
 - [prefect-twitter](https://github.com/PrefectHQ/prefect-twitter) - Prefect integrations for interacting with Twitter.
+
+## Community integrations
+
+- [prefect-cubejs](https://github.com/AlessandroLollo/prefect-cubejs) - Prefect collection of tasks to interact with Cube.js.
+- [prefect-saturn](https://github.com/saturncloud/prefect-saturn) - Python client for using Prefect Cloud with Saturn Cloud.
+- [prefect-stitch](https://github.com/AlessandroLollo/prefect-stitch) - Prefect 2.0 tasks and flows to interact with Stitch.
+- [prefect-vault](https://github.com/pbchekin/prefect-vault) - Prefect blocks for HashiCorp Vault.
