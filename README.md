@@ -45,8 +45,13 @@
 
 ## Official blog posts
 
-- [Continuous Data Validation with Great Expectations and Prefect](https://www.prefect.io/guide/blog/continuous-data-validation-with-great-expectations-and-prefect/) (website)
-- [Event-driven Data Pipelines with AWS Lambda, Prefect and GitHub Actions](https://medium.com/the-prefect-blog/event-driven-data-pipelines-with-aws-lambda-prefect-and-github-actions-b3d9f84b1309) (medium)
+- [Continuous Data Validation with Great Expectations and Prefect](https://www.prefect.io/guide/blog/continuous-data-validation-with-great-expectations-and-prefect/)
+
+## Official medium publication blog posts
+
+- [Event-driven Data Pipelines with AWS Lambda, Prefect and GitHub Actions](https://medium.com/the-prefect-blog/event-driven-data-pipelines-with-aws-lambda-prefect-and-github-actions-b3d9f84b1309)
+- [Orchestrating Airbyte with Prefect 2.0](https://medium.com/the-prefect-blog/orchestrating-airbyte-with-prefect-2-0-35501997a974)
+- [Serverless Real-Time Data Pipelines on AWS with Prefect, ECS and GitHub Actions](https://medium.com/the-prefect-blog/serverless-real-time-data-pipelines-on-aws-with-prefect-ecs-and-github-actions-1737c80da3f5)
 
 ## Official videos
 
