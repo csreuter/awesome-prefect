@@ -43,6 +43,8 @@
 
 - [prefect-webscraper-example](https://github.com/szelenka/prefect-webscraper-example) - Prefectt integration with BeatifulSoup and Selenium.
 
-## Official blog
+## Official blog posts
 
-- [Event-driven Data Pipelines with AWS Lambda, Prefect and GitHub Actions](https://medium.com/the-prefect-blog/event-driven-data-pipelines-with-aws-lambda-prefect-and-github-actions-b3d9f84b1309)
+- [Continuous Data Validation with Great Expectations and Prefect](https://www.prefect.io/guide/blog/continuous-data-validation-with-great-expectations-and-prefect/) (website)
+- [Event-driven Data Pipelines with AWS Lambda, Prefect and GitHub Actions](https://medium.com/the-prefect-blog/event-driven-data-pipelines-with-aws-lambda-prefect-and-github-actions-b3d9f84b1309) (medium)
+
